@@ -165,7 +165,7 @@ def clean_genre_string(genre_string):
 
 # --- Load model ---
 model = compress_pickle.load(
-    "C:/Users/Winner/Desktop/Krish Naik Data Anlaytics Bootcamp/Netflix_FE/recommender_model_compressed.pkl",
+    "recommender_model_compressed.pkl",
     compression="lz4"
 )
 
