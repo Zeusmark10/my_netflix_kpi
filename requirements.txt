@@ -4,3 +4,4 @@ numpy
 tmdbv3api
 compress_pickle
 lz4
+sklearn
